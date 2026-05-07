@@ -2,7 +2,7 @@
 
 ## 🚀 May The Fourth 2026 - Desafio 2
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **May The Fourth 2026**, realizado pelo [balta.io](https://balta.io). 👻
+Oi, eu sou a Jaqueline Manzano e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **May The Fourth 2026**, realizado pelo [balta.io](https://balta.io). 👻
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio.
 
@@ -19,7 +19,7 @@ Você descreve o que colocou em cada caixa numerada; depois, basta perguntar à 
   - Api, Ai, Core, Infra, Applicattion?
 - Expor um endpoint que recebe a entrada do usuário e retorna a receita
 
-#### Nível 2 - Fullstack + IA
+#### Nível 3 - Fullstack + IA
 - Estruturar um projeto de IA
   - Api, Ai, Core, Infra, Applicattion?, Frontend (Blazor Wasm)
 - Expor um endpoint que recebe a entrada do usuário e retorna a receita
